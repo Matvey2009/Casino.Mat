@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(60, 130, 60);
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    color: rgb(146, 207, 228);
+}
+
+form {
+    margin: 16px;
+    color: lime;
+    text-align: center;
+}
