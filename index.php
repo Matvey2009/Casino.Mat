@@ -1,9 +1,12 @@
-<? $db = 'model/sqliete';
-include_once('model/migration.php'); ?>
+<? $db = 'model/casino.sqlite';
+//include_once('model/migration.php');
+include_once('controller/function.php');
+?>
 <? include_once('view/header.php'); ?>
 
 <form method="post">
-    <input type="submit" name="bet" value="Matvey">
-    <input type="submit" name="reset" value="Krutoy">
+    <input type="submit" name="bet" value="Start">
+    <input type="submit" name="reset" value="Restart">
 </form>
+<? statistic($db); ?>
 <? include_once('view/footer.php'); ?>
