@@ -11,3 +11,15 @@ form {
     color: lime;
     text-align: center;
 }
+
+.row {
+    padding: 3px;
+    display: flex;
+    flex-direction: row;
+}
+
+.col {
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+}
