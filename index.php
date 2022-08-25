@@ -8,5 +8,7 @@ include_once('controller/function.php');
     <input type="submit" name="bet" value="Start">
     <input type="submit" name="reset" value="Restart">
 </form>
+
+<div><? echo $sector?></div>
 <? statistic($db); ?>
 <? include_once('view/footer.php'); ?>
