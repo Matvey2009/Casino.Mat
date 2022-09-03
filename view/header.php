@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Casino</title>
     <link rel="shortcut icon" href="iconka.ico" type="image/x-icon">
-    <link rel="stylesheet" href="view/style.css">
+    <link rel="stylesheet" href="view/css/normalize.css">
+    <link rel="stylesheet" href="view/css/style.css">
 </head>
 <body>
 <header>
