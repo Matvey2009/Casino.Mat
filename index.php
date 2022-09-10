@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ALL);
 //model
 require_once("model/game.php");
 require_once("model/user.php");
