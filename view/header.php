@@ -7,7 +7,7 @@
     <title>Casino</title>
     <link rel="shortcut icon" href="iconka.ico" type="image/x-icon">
     <link rel="stylesheet" href="view/css/normalize.css">
-    <link rel="stylesheet" href="view/css/style.css">
+    <link rel="stylesheet" href="view/css/style.php">
 </head>
 <body>
 <header>
